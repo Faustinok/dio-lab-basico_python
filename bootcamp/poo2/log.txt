@@ -1,0 +1,4 @@
+Success: iphone ligou com sucesso! (Smartphone)
+Success: iphone desligou com sucesso (Smartphone)
+Success: Galaxy S ligou com sucesso! (Smartphone)
+Success: Galaxy S desligou com sucesso (Smartphone)
